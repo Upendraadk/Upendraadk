@@ -38,14 +38,14 @@ Status     : Open to work
 
 # 📊 GitHub Analytics
 
-<!-- <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Upendraadk&show_icons=true&theme=tokyonight&hide_border=true"/>
+ <p align="center">
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Upendraadk&show_icons=true&theme=tokyonight&hide_border=true"/> -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Upendraadk&theme=tokyonight&hide_border=true"/>
-</p> -->
+</p> 
 
-<p align="center">
+<!-- <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendraadk&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
