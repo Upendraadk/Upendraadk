@@ -8,7 +8,7 @@
 
 ### Computer Engineering Student • React Developer • Python Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Frontend+Developer;Python+Developer;AI+Enthusiast;Cybersecurity+Learner;Open+to+Internship+Opportunities"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Frontend+Developer;Python+Developer;AI+Enthusiast;Cybersecurity+Learner"/>
 
 </div>
 
@@ -23,7 +23,7 @@ University : Tribhuvan University
 Degree     : Bachelor in Computer Engineering
 Current    : Learning React + Python
 Interest   : AI | Web Development | Cybersecurity
-Status     : Open to Internship Opportunities
+Status     : Open to work
 ```
 
 ---
@@ -38,10 +38,10 @@ Status     : Open to Internship Opportunities
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Upendraadk&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Upendraadk&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendraadk&layout=compact&theme=tokyonight&hide_border=true"/>
