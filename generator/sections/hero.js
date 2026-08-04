@@ -10,7 +10,6 @@ import { profile } from "./profile.js";
 import { terminal } from "./terminal.js";
 
 import { techIcons } from "../components/techIcons.js";
-import { socialIcons } from "../components/socialIcons.js";
 
 import { statusBadge } from "../components/statusBadge.js";
 
@@ -33,8 +32,6 @@ ${particles()}
 ${shootingStars()}
 
 ${profile()}
-
-${socialIcons()}
 
 ${techIcons()}
 
