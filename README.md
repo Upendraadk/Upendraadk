@@ -73,6 +73,13 @@ Status     : Open to work
 
 <div align="center">
 
+![](https://komarev.com/ghpvc/?username=Upendraadk&color=blue&style=for-the-badge)
+
+</div>
+
+
+<div align="center">
+
 ### ⭐ Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
